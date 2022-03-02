@@ -4,7 +4,7 @@
 
 I am 24 years old and started my journey in software development 6 years ago, when I started my degree as a Computer Engineer.
 
-With almost 3 years since graduation, my focus at the moment is based on Node, React and React Native. I aim to be at least 1% better than the day before.
+With almost 4 years since graduation, my focus at the moment is based on Node, React and React Native. I aim to be at least 1% better than the day before.
 
 Skills: React | Node | Angular 1 & 2 | Javascript | Python 
 
