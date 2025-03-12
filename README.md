@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Matheus
-#### I am Tech Lead and Fullstack Developer at Cloudiabot
-![I am Tech Lead and Fullstack Developer at Cloudiabot](https://images.unsplash.com/photo-1566837945700-30057527ade0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3150&q=80)
+#### I am CTO at Cloudiabot
+![I am CTO at Cloudiabot](https://images.unsplash.com/photo-1566837945700-30057527ade0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3150&q=80)
 
 I am 28 years old and started my journey in software development 9 years ago, when I started my degree as a Computer Engineer.
 
