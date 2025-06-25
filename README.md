@@ -6,7 +6,7 @@ I am 28 years old and started my journey in software development 9 years ago, wh
 
 With almost 7 years since graduation, my focus at the moment is based on Node, React and React Native. I aim to be at least 1% better than the day before.
 
-Skills: React | Vue | Angular | Node | Javascript | Typescript | Python | AWS 
+Skills: React | Typescript | Node | Javascript | AWS | Angular | Vue | Python
 
 - 🔭 I’m currently working on Cloudiabot 
 - 🌱 I’m currently learning SOLID, DDD and GraphQL 
